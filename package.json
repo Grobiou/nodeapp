@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "My NodeApp",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "nib": "*",
+    "mongodb": "*",
+    "monk": "*",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guarionex Robiou",
+  "license": "MIT"
+}
